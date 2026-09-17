@@ -1,0 +1,15 @@
+{
+  "name": "Electrónica Digital - UCA TP1",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y build-essential gcc gdb make"
+}
