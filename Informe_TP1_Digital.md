@@ -1,9 +1,9 @@
 # Trabajo Práctico 1: Representación de Datos y Aritmética de Computadores
 
-**Asignatura:** Electrónica Digital (2026)
-**Carrera:** Ingeniería Informática
-**Institución:** Facultad de Ingeniería y Ciencias Agrarias, Universidad Católica Argentina (UCA)
-**Integrantes:** [Nombre del Estudiante] (Legajo: [Número de Legajo])
+**Asignatura:** Electrónica Digital (2026)  
+**Carrera:** Ingeniería Informática  
+**Institución:** Facultad de Ingeniería y Ciencias Agrarias, Universidad Católica Argentina (UCA)  
+**Integrantes:** Lucas Di Tomase  
 
 ---
 
