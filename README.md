@@ -1,7 +1,7 @@
 # Electrónica Digital - Trabajo Práctico 1
 ### Universidad Católica Argentina (UCA) - Facultad de Ingeniería y Ciencias Agrarias
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lucasditomase/tp-1-de-electronica-digital)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lucasditomase/Trabajo-Practico-1-de-Electronica-Digital)
 
 Este repositorio contiene la resolución completa y explicada del **Trabajo Práctico 1** de la materia **Electrónica Digital** (Carrera de Ingeniería Informática, UCA).
 
