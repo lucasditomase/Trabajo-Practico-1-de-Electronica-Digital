@@ -3,7 +3,7 @@
 **Asignatura:** Electrónica Digital (2026)  
 **Carrera:** Ingeniería Informática  
 **Institución:** Facultad de Ingeniería y Ciencias Agrarias, Universidad Católica Argentina (UCA)  
-**Integrantes:** Lucas Di Tomase  
+**Integrantes:** Lucas Di Tomase y Valentín Michelic  
 
 ---
 
